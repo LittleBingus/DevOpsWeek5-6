@@ -1,20 +1,14 @@
 # Changelog
 
-Document meaningful project releases here.
+## [0.1.0] - 2026-10-15
+
+### Added
+- Automated testing through GitHub Actions.
+- Automatic ZIP build artifact creation.
+- Build artifact upload using GitHub Actions.
+- GitHub Release for version 0.1.0.
 
 ## Unreleased
 
 ### Added
-- Week 5–6 starter repository initialized.
-
-<!--
-WEEK 5 TODO:
-When you create your first versioned release, add a section such as:
-
-## [0.1.0]
-
-### Added
-- Automated build artifact creation.
-- GitHub Actions artifact upload.
-- Docker containerization.
--->
+- Docker containerization for the FastAPI application.
